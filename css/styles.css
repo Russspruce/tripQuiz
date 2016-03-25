@@ -6,5 +6,31 @@
 
 .btn {
   margin-bottom: 100px;
-  
+  margin-top: 100px;
+
+}
+ .quizQuestions {
+   border: 5px solid #00355f;
+   width: 350px;
+   border-radius: 25px;
+   padding-top: 20px;
+ }
+
+body {
+
+  background-color: #ffcb00;
+}
+
+ .resultOne{
+  visibility: hidden;
+}
+
+ #hide {
+   border: 5px solid #00355f;
+   margin: 100px;
+   border-radius: 25px;
+
+   color: black;
+   display: none;;
+
 }
